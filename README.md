@@ -24,6 +24,10 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+```
+Developed By : RISHI R
+Resgister No : 212224040277
+```
 ``` 
 <!DOCTYPE html>
 <html>
